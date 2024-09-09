@@ -14,7 +14,7 @@ const colors = [ '#FF0000', '#298A08', '#000000', '#FFFFFF'];
 
 // Load the PNG image
 const img = new Image();
-img.src = 'C:/Users/abd.shehada/Downloads/image.png'; // Path to your PNG image
+img.src = 'C:/Users/zero/Downloads/image.png'; // Path to your PNG image
 
 img.onload = () => {
   // After the image is loaded, start the animation
